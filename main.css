@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://raw.githubusercontent.com/mhVxVNMwXkm9s4Ze9VASei/iosevka-standard-notes/iosevka-custom-regular.woff2)
+  src: url(https://raw.githubusercontent.com/mhVxVNMwXkm9s4Ze9VASei/iosevka-standard-notes/iosevka-custom-regular.woff2) format('woff2');
 }
 
 .CodeMirror-code,
