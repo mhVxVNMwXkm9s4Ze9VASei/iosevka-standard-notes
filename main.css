@@ -9,19 +9,19 @@
 .CodeMirror-code,
 #editor,
 .CodeMirror .CodeMirror-code .cm-comment {
-  font-family:  'Iosevka Custom', monospace !important;
+  font-family: 'Iosevka Custom', monospace !important;
   font-weight: 400 !important;
 }
 
 html,
 body,
 * {
-  font-family:  'Iosevka Custom', monospace !important;
+  font-family: 'Iosevka Custom', monospace !important;
   font-weight: 400 !important;
 }
 
 .k-button-icon, .k-icon {
-  font-family:  'WebComponentsIcons', monospace !important;
+  font-family: 'WebComponentsIcons', monospace !important;
 }
 
 .CodeMirror .CodeMirror-code .cm-comment {
