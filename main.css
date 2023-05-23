@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Iosevka Custom';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://mhVxVNMwXkm9s4Ze9VASei.github.io/iosevka-standard-notes/iosevka-custom-regular.woff2)
+}
+
+.CodeMirror-code,
+#editor,
+.CodeMirror .CodeMirror-code .cm-comment {
+  font-family:  'Iosevka Custom', monospace !important;
+  font-weight: 400 !important;
+}
+
+html,
+body,
+* {
+  font-family:  'Iosevka Custom', monospace !important;
+  font-weight: 400 !important;
+}
+
+.k-button-icon, .k-icon {
+  font-family:  'WebComponentsIcons', monospace !important;
+}
+
+.CodeMirror .CodeMirror-code .cm-comment {
+  font-size: 100% !important;
+}
