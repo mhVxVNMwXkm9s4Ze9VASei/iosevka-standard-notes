@@ -3,11 +3,11 @@
   "name": "Iosevka for SN",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom Iosevka font for Standard Notes",
   "url": "https://cdn.jsdelivr.net/gh/mhVxVNMwXkm9s4Ze9VASei/iosevka-standard-notes@master/main.css",
   "download_url": "https://github.com/mhVxVNMwXkm9s4Ze9VASei/iosevka-standard-notes/archive/refs/tags/deez-notes.zip",
-  "latest_url": "https://raw.githubusercontent.com/mhVxVNMwXkm9s4Ze9VASei/iosevka-standard-notes/main/iosevka-sn.json",
+  "latest_url": "https://cdn.jsdelivr.net/gh/mhVxVNMwXkm9s4Ze9VASei/iosevka-standard-notes@master/iosevka-sn.json",
   "marketing_url": "https://github.com/mhVxVNMwXkm9s4Ze9VASei/iosevka-standard-notes",
   "layerable": "true"
 }
